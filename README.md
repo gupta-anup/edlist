@@ -1,4 +1,4 @@
-# EdLIST - Project Management Dashboard
+# Project Management Dashboard
 
 ## Technology Stack
 
